@@ -1340,7 +1340,7 @@ input::-moz-focus-inner {
 }
 
 .skill-bars li .progress {
-  background: #5b4f96;
+  background: #3360CD;
   position: relative;
   height: 100%;
 }
@@ -4052,7 +4052,7 @@ img.step-img{
 .go-top a:hover,
 .go-top a:focus,
 .go-top a:active {
-  background-color: #514686;
+  background-color: #3360CD;
 }
 
 .go-top.link-is-visible {
